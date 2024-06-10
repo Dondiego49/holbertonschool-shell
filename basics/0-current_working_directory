@@ -1,4 +1,2 @@
 #!/bin/bash
-vi imprimer_repertoire_courant.sh
-
-
+pwd
